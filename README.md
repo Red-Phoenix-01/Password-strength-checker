@@ -3,7 +3,7 @@
 A simple yet powerful Python GUI app that checks the strength of passwords using real-time feedback and regex rules.
 
 
-![Screenshot](screenshot.png)
+![Screenshot](password-demo.png)
 
 ---
 
